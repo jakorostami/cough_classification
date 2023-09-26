@@ -1,0 +1,21 @@
+{
+    "paths":{
+        "TRAIN_PATH": "C:/Users/jako/data/custom_cough/train_full",
+        "TEST_PATH": "C:/Users/jako/data/custom_cough/test_full",
+        "TRAIN_TOPO": "C:/Users/jako/data/custom_cough/topological_signal",
+        "TEST_TOPO": "C:/Users/jako/data/custom_cough/topological_signal_test",
+        "TRAIN_TOPO_3D": "C:/Users/jako/data/custom_cough/topological_3D_train",
+        "TEST_TOPO_3D": "C:/Users/jako/data/custom_cough/topological_3D_test"
+    },
+
+    "labels":{
+        "TRAIN_LABEL": "C:/Users/jako/data/custom_cough/train_full/full_train_labels.csv",
+        "TEST_LABEL": "C:/Users/jako/data/custom_cough/test_full/full_test_labels.csv"
+    },
+    
+
+    "hyperparams":{
+        "BATCH_SIZE":16,
+        "EPOCHS":1
+    }
+}

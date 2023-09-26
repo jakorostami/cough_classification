@@ -1,0 +1,5 @@
+2023-09-24 01:35:04,149 - __main__ - INFO - initiatie_data - Using batch size: 16
+2023-09-24 01:35:04,149 - __main__ - INFO - initiatie_data - Instantiating training dataset
+2023-09-24 01:35:04,158 - __main__ - INFO - initiatie_data - Finished train. Instantiating testing dataset.
+2023-09-24 01:35:04,161 - __main__ - INFO - initiatie_data - Training and testing loaders finished.                        Now instantiating training and testing dataloaders
+2023-09-24 01:35:04,161 - __main__ - INFO - initiatie_data - Finished dataloaders.
